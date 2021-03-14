@@ -8,7 +8,7 @@ help with responding quickly in chat during livestreams.
 Install Hammerspoon as per the instructions in the _Setup_ section on the 
 [Hammerspoon website](http://www.hammerspoon.org/go/).
 
-Then download the the spoon and double-click on it.
+Then [download the the Spoon](https://downgit.github.io/#/home?url=https://github.com/flxs/nummacropad/tree/main/NumMacroPad.spoon), unzip and double-click to install.
 
 ## Configuration
 
