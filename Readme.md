@@ -3,6 +3,10 @@
 A Hammerspoon spoon to use your numpad as a macro pad for emoji and text snippets. It's meant to 
 help with responding quickly in chat during livestreams.
 
+## Demo Gif
+
+![Demo gif of the Spoon in action](demo.gif)
+
 ## Setup
 
 Install Hammerspoon as per the instructions in the _Setup_ section on the 
