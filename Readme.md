@@ -3,9 +3,20 @@
 A Hammerspoon spoon to use your numpad as a macro pad for emoji and text snippets. It's meant to 
 help with responding quickly in chat during livestreams.
 
-## Demo Gif
+## Demo Gifs
 
-![Demo gif of the Spoon in action](demo.gif)
+Assigning emoji to numpad keys:
+
+![Pressing numpad keys emits emoji](demo-keys.gif)
+
+Another layer of text/emoji with a custom modifier key (`0` in this case) and auto-pressing return:
+
+![Pressing 0 plus other numpad keys emits emoji-triplets, return key](demo-altkeys.gif)
+
+Assigning a list of text/emoji strings to one key, emitting a random one (but never the same twice
+in a row:
+
+![Pressing 0 and + emits another string each time](demo-random.gif)
 
 ## Setup
 
